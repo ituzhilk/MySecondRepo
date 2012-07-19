@@ -1,5 +1,6 @@
 #ifndef FINDDIALOG_H
 #define FINDDIALOG_H
+//my commit for test
 
 #include <QDialog>
 
