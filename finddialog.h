@@ -2,6 +2,7 @@
 #define FINDDIALOG_H
 //my commit for test
 //master
+//branch_1
 
 #include <QDialog>
 
