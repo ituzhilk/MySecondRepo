@@ -20,5 +20,4 @@ HEADERS  += mainwindow.h \
     finddialog.h
 
 FORMS    += mainwindow.ui \
-    mdiarea.ui \
-    window.ui
+    dialog.ui
