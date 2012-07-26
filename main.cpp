@@ -3,11 +3,19 @@
 //#include "widget.h"
 //#include "finddialog.h"
 #include <QDialog>
-#include "ui_dialog.h"
+#include "gotocelldialog.h"
 
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
+    gotocelldialog d;
+    d.show();
+
+//    Ui::GoToCellDialog ui;
+//    QDialog *dialog = new QDialog;
+//    ui.setupUi(dialog);
+//    dialog->show();
+
 
 //    MainWindow w;
 //    w.show();
